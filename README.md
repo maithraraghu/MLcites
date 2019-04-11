@@ -6,7 +6,7 @@ This repository contains:
 2. The script used to collect this data, which can be rerun or repurposed to collect data from other publication venues and years.
 
 ### Blogpost and Jupyter Notebook
-For a detailed overview of the data and statistics on top cited papers, citation distributions, topic trends and academia/industry splits, check out the [blog post](TODO)!
+For a detailed overview of the data and statistics on top cited papers, citation distributions, topic trends and academia/industry splits, check out the [blog post](http://maithraraghu.com/blog/2019/Citation_Statistics_of_Machine_Learning_Papers/)!
 
 The repository also contains a [jupyter notebook](https://github.com/rubai5/MLcites/blob/master/Paper_Statistics_Analysis.ipynb) with the code for the simple analyses outlined in the blogpost.
 
@@ -35,7 +35,7 @@ We can use the title information to study trends in different topics through the
 Above are plots showing the total number of GAN papers and fraction of GAN papers at different years in NeurIPS. In 2014, there is only one paper, the original GAN paper, but by 2017, there are around _25_ GAN papers, comprising 3.5% of the conference!
 
 ### Further Results
-Additional results on citation distributions and academia/industry breakdowns can be found in the blogpost and jupyter notebook.
+Additional results on citation distributions and academia/industry breakdowns can be found in the [blogpost](http://maithraraghu.com/blog/2019/Citation_Statistics_of_Machine_Learning_Papers/) and jupyter notebook.
 
 
 ## Details on the Data and Scraping Method
